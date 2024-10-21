@@ -1,5 +1,5 @@
 # 💫 About Me:
--🔭 I’m currently working on a group scheduling app called Crystal Chrono<br>- 🌱 I’m currently learning computer vision<br>- 💬 Ask me about chess or learning Chinese<br>- 📫 How to reach me: [Email](mailto:rmeekinsmitchell@gmail.com) | [LinkedIn](https://www.linkedin.com/in/robertmeekins/)<br>- ⚡ Fun fact: I started programming as a kid by making Minecraft mods
+  -  💬 Ask me about chess or learning Chinese<br>- 📫 How to reach me: [Email](mailto:rmeekinsmitchell@gmail.com) | [LinkedIn](https://www.linkedin.com/in/robertmeekins/)<br>- ⚡ Fun fact: I started programming as a kid by making Minecraft mods
 
 
 ## 🌐 Socials:
